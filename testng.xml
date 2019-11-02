@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+<listeners>
+<listener class-name="Listener.Listener"></listener>
+</listeners>
+  <test name="TC_001_Homepage">
+    <classes>
+      <class name="Homepage.TC_002_demologin"/>
+    </classes>
+  </test> <!-- TC_001_Homepage -->
+</suite> <!-- RegressionSuite -->

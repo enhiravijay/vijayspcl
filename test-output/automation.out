@@ -1,0 +1,51 @@
+2017-07-29 20:05:13 INFO  TC_001_Homepage:60 - =========Started browser ==============
+2017-07-29 20:05:13 INFO  TC_001_Homepage:60 - =========Started test verify login ==============
+2017-07-29 20:05:21 INFO  Homepage:182 - ========Started method===================
+2017-07-29 20:05:21 INFO  Homepage:182 - clicked on Login[[ChromeDriver: chrome on XP (214190e9e5749c8ccfbde514102210cd)] -> xpath: //a[contains(text(),'Log In')]]
+2017-07-29 20:05:21 INFO  Homepage:182 - Entered emailid9967192191
+2017-07-29 20:05:22 INFO  Homepage:182 - Entered passwordentech265
+2017-07-29 20:05:22 INFO  Homepage:182 - clicked on submig[[ChromeDriver: chrome on XP (214190e9e5749c8ccfbde514102210cd)] -> xpath: //button[@type='submit' and @class='_2AkmmA _1LctnI _7UHT_c']]
+2017-07-29 20:05:22 INFO  TC_001_Homepage:60 - entered emailid and Password
+2017-07-29 20:09:32 INFO  TC_001_Homepage:60 - =========Started browser ==============
+2017-07-29 20:09:32 INFO  TC_001_Homepage:60 - =========Started test verify login ==============
+2017-07-29 20:09:40 INFO  Homepage:182 - ========Started method===================
+2017-07-29 20:09:41 INFO  Homepage:182 - clicked on Login[[ChromeDriver: chrome on XP (87ffc7e1c4a5618fecbef2e2b0a0a80f)] -> xpath: //a[contains(text(),'Log In')]]
+2017-07-29 20:09:41 INFO  Homepage:182 - Entered emailid9967192191
+2017-07-29 20:09:41 INFO  Homepage:182 - Entered passwordentech265
+2017-07-29 20:09:41 INFO  Homepage:182 - clicked on submig[[ChromeDriver: chrome on XP (87ffc7e1c4a5618fecbef2e2b0a0a80f)] -> xpath: //button[@type='submit' and @class='_2AkmmA _1LctnI _7UHT_c']]
+2017-07-29 20:09:41 INFO  TC_001_Homepage:60 - entered emailid and Password
+2017-07-29 20:14:45 INFO  TC_001_Homepage:60 - =========Started browser ==============
+2017-07-29 20:14:45 INFO  TC_001_Homepage:60 - =========Started test verify login ==============
+2017-07-29 20:14:53 INFO  Homepage:182 - ========Started method===================
+2017-07-29 20:14:53 INFO  Homepage:182 - clicked on Login[[ChromeDriver: chrome on XP (fef5ad9821c76a3d9f63578620f21c7b)] -> xpath: //a[contains(text(),'Log In')]]
+2017-07-29 20:14:54 INFO  Homepage:182 - Entered emailid9967192191
+2017-07-29 20:14:54 INFO  Homepage:182 - Entered passwordentech265
+2017-07-29 20:14:54 INFO  Homepage:182 - clicked on submig[[ChromeDriver: chrome on XP (fef5ad9821c76a3d9f63578620f21c7b)] -> xpath: //button[@type='submit' and @class='_2AkmmA _1LctnI _7UHT_c']]
+2017-07-29 20:14:54 INFO  TC_001_Homepage:60 - entered emailid and Password
+2017-07-29 20:30:27 INFO  TC_001_Homepage:60 - =========Started browser ==============
+2017-07-29 20:30:27 INFO  TC_001_Homepage:60 - =========Started test verify login ==============
+2017-07-29 20:30:35 INFO  Homepage:182 - ========Started method===================
+2017-07-29 20:30:35 INFO  Homepage:182 - clicked on Login[[ChromeDriver: chrome on XP (b0da085621ea95836b7aebd192108cc6)] -> xpath: //a[contains(text(),'Log In')]]
+2017-07-29 20:30:36 INFO  Homepage:182 - Entered emailid9967192191
+2017-07-29 20:30:36 INFO  Homepage:182 - Entered passwordentech265
+2017-07-29 20:30:36 INFO  Homepage:182 - clicked on submig[[ChromeDriver: chrome on XP (b0da085621ea95836b7aebd192108cc6)] -> xpath: //button[@type='submit' and @class='_2AkmmA _1LctnI _7UHT_c']]
+2017-07-29 20:30:36 INFO  TC_001_Homepage:60 - entered emailid and Password
+2017-07-29 20:35:28 INFO  TC_001_Homepage:60 - =========Started browser ==============
+2017-07-29 20:35:28 INFO  TC_001_Homepage:60 - =========Started test verify login ==============
+2017-07-29 20:35:36 INFO  Homepage:182 - ========Started method===================
+2017-07-29 20:42:39 INFO  TC_001_Homepage:60 - =========Started browser ==============
+2017-07-29 20:42:39 INFO  TC_001_Homepage:60 - =========Started test verify login ==============
+2017-07-29 20:42:47 INFO  Homepage:182 - ========Started method===================
+2017-07-29 20:42:47 INFO  Homepage:182 - clicked on Login[[ChromeDriver: chrome on XP (a6a33a7b02ae21bd1a7978f29607069e)] -> xpath: //a[contains(text(),'Log In')]]
+2017-07-29 20:42:48 INFO  Homepage:182 - Entered emailid9967192191
+2017-07-29 20:42:48 INFO  Homepage:182 - Entered passwordentech265
+2017-07-29 20:42:48 INFO  Homepage:182 - clicked on submig[[ChromeDriver: chrome on XP (a6a33a7b02ae21bd1a7978f29607069e)] -> xpath: //button[@type='submit' and @class='_2AkmmA _1LctnI _7UHT_c']]
+2017-07-29 20:42:48 INFO  TC_001_Homepage:60 - entered emailid and Password
+2017-07-29 20:52:32 INFO  TC_001_Homepage:60 - =========Started browser ==============
+2017-07-29 20:52:32 INFO  TC_001_Homepage:60 - =========Started test verify login ==============
+2017-07-29 20:52:40 INFO  Homepage:182 - ========Started method===================
+2017-07-29 20:52:41 INFO  Homepage:182 - clicked on Login[[ChromeDriver: chrome on XP (3947db0b33a927e1ae504d8f28ccbf37)] -> xpath: //a[contains(text(),'Log In')]]
+2017-07-29 20:52:41 INFO  Homepage:182 - Entered emailid9967192191
+2017-07-29 20:52:41 INFO  Homepage:182 - Entered passwordentech265
+2017-07-29 20:52:41 INFO  Homepage:182 - clicked on submig[[ChromeDriver: chrome on XP (3947db0b33a927e1ae504d8f28ccbf37)] -> xpath: //button[@type='submit' and @class='_2AkmmA _1LctnI _7UHT_c']]
+2017-07-29 20:52:41 INFO  TC_001_Homepage:60 - entered emailid and Password
